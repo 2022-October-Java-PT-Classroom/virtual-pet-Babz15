@@ -41,4 +41,6 @@ public class VirtualPet {
         thirst = thirst +1;
         boredom = boredom +1;
     }
+
+    
 }
